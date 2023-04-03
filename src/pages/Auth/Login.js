@@ -82,6 +82,10 @@ const Login = () => {
           <button type="submit" className="btn btn-primary">
             LOGIN
           </button>
+          <div>
+            <p>Please use email: <b>test@test.com</b><br/>
+            password: <b>test@123</b> for demo this app</p>
+          </div>
         </form>
       </div>
     </Layout>
