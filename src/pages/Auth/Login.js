@@ -86,6 +86,10 @@ const Login = () => {
             <p>Please use email: <b>test@test.com</b><br/>
             password: <b>test@123</b> for demo this app</p>
           </div>
+          <div>
+            <p>For Admin email: <b>admin@admin.com</b><br/>
+            password: <b>admin@123</b> for demo this app</p>
+          </div>
         </form>
       </div>
     </Layout>
