@@ -1,3 +1,10 @@
+# Description
+E-Commerce APP of CRM using MERN Stack in all CURD Operation and Multer for uploading images and Paypal for payment gateway via BrainTree in NodeJS.
+
+# Prodution URL
+
+https://poo-e-com.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
