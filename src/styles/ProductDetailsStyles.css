@@ -5,7 +5,7 @@
 .product-details-info {
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
+  /* align-items: center;/ */
   justify-content: center;
 }
 
@@ -47,4 +47,15 @@
 
 .similar-products .card-img-top {
   height: 300px !important;
+}
+
+.img{
+  height: 400px;
+  width: 400px;
+  margin-left: 200px;
+}
+
+.sim{
+  /* align-items: center; */
+  justify-content: center;
 }
